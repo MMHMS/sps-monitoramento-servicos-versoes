@@ -1,0 +1,13 @@
+{
+  "produto": "SPS Monitoramento de Serviços",
+  "versao": "2026.11.11.4",
+  "data": "2026-11-11",
+  "novidades": [
+    "Corrigido: a atualização pelo botão terminava com erro (código 1) quando a tela estava aberta (ela segurava o arquivo do ícone).",
+    "Menu: \"Tempos gerais\" virou \"Logs e registros\" (quanto tempo guardar os logs e onde ficam) e a aba \"Certificados e disco\" saiu."
+  ],
+  "arquivo": "pacotes/SPS-Monitoramento-Servicos-2026.11.11.4.zip",
+  "tamanho": 344677,
+  "sha256": "b6420d091d6ea819c3d74ed5f86057b5f18ce634880b67a462988c20eba3c274",
+  "assinatura": "nbZOalg2bcbatrkgJgPS8VpjbHWpY1CLsGG53o7iddfvEwyoIqxAEe8hiFY9gQs6FWuobw1Gr1uEGqCTsHaJCA=="
+}
